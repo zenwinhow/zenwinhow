@@ -1,4 +1,11 @@
 ## Hi there 👋
+- 🎓 I'm a student with a strong interest in **Java backend development** and **Android application development**.  
+- 💻 I regularly solve algorithm problems using **C++**, which is my go-to language for competitive programming and coding practice.
+### 🛠 Tech Stack
+- **Java / Spring Boot** – Currently learning and building small projects
+- **Android** – Familiar with core components and mobile development basics
+- **C++** – Used for data structures, algorithms, and problem-solving (especially on LeetCode, etc.)
+- **Git / GitHub** – Comfortable with version control and collaborative development
 
 <!--
 **zenwinhow/zenwinhow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
